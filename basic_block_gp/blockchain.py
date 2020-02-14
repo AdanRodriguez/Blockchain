@@ -167,3 +167,5 @@ def full_chain():
 # Run the program on port 5000
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
+
+# http://localhost:5000/mine
